@@ -23,3 +23,8 @@ Id–Vgs 특성과 transconductance(gm)를 분석하였다.
 
 ## Result:Subthreshold Id–Vgs (Log Scale)  
  ![Subthreshold Id–Vgs (Log Scale)](results/Subthreshold%20Id–Vgs%20(Log%20Scale).png)
+
+## Observation
+- Vgs가 문턱 전압(Vth) 이하에서 Id는 0이 아니다.
+- Id는 매우 작은 값에서 시작하여 Vgs가 증가할수록 빠르게 증가한다.
+- 로그 스케일에서 Id–Vgs 관계는 거의 직선 형태를 보인다.
